@@ -47,6 +47,14 @@ body {
     font-size: 24px;
    /* left: 42%;*/
 }
+.footer-2 {
+    margin: 80px 0px 10px 0px;
+    font-family: 'Niagara Engraved'
+    /*position: absolute;*/
+    bottom: 0;
+    font-size: 24px;
+    /* left: 42%;*/
+}
 
 .heart {
     margin: auto;
